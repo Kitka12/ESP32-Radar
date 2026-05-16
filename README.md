@@ -3,12 +3,18 @@
 Pins
 
 TFT SCK    -> GPIO13
+
 TFT SDA    -> GPIO23
+
 TFT A0     -> GPIO2
+
 TFT RESET  -> GPIO4
+
 TFT CS     -> GPIO15
 
+
 HC-SR04 TRIG -> GPIO5
+
 HC-SR04 ECHO -> GPIO16
 
 SERVO -> GPIO19
